@@ -2,6 +2,8 @@
 # Created by MCNoviceElectronics
 # March 2018
 # Vist: https://mcnoviceelectronics.wordpress.com
+# See post for more details:
+# https://mcnoviceelectronics.wordpress.com/2018/03/22/raspberry-pi-creating-local-apt-repository/
 
 import configparser
 import logging
