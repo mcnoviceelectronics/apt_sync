@@ -1,6 +1,8 @@
 # apt_sync
 Use to copy (scp) Raspberry Pi cached apt archives to a Linux Server.  Not tested on any other systems
 
+See article on my website: [Raspberry Pi - Creating Local Apt Repository](https://mcnoviceelectronics.wordpress.com/2018/03/22/raspberry-pi-creating-local-apt-repository/)
+
 ## Usage
 ```bash
 ./apt_sync.py
