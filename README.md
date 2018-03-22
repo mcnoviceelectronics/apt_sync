@@ -22,9 +22,9 @@ APTArchives = /var/cache/apt/archives
 [APT_DATA]
 LastModified = 
 ```
-* Valid values for LogLevel are DEBUG, INFO, WARN, ERROR
-* SCPHost is the host IP for the secure copy
-* SCPUser is the username for the secure copy
-* SCPLocation is the server destination location for secure copy 
-* APTArchives is the local machine location for the apt archives
-* LastModified is used by the program to write the APTArchives directory last modified time, in EPOCH format
+* Valid values for *LogLevel* are DEBUG, INFO, WARN, ERROR
+* *SCPHost* is the host IP for the secure copy
+* *SCPUser* is the username for the secure copy
+* *SCPLocation* is the server destination location for secure copy 
+* *APTArchives* is the local machine location for the apt archives
+* *LastModified* is used by the program to write the APTArchives directory last modified time, in EPOCH format
